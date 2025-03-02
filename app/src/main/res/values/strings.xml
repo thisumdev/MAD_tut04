@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial-04-Android-Layouts</string>
+    <string name="title">Hello, SLIIT</string>
+    <string name="enterName">Enter name</string>
+    <string name="button1">Welcome</string>
+    <string name="button2">Good Bye</string>
+</resources>
