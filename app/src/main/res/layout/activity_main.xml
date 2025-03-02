@@ -8,7 +8,7 @@
 
 
     <EditText
-        android:id="@+id/enterName"
+        android:id="@+id/editName"
         android:layout_width="350dp"
         android:layout_height="50dp"
         android:autofillHints="name"
@@ -28,7 +28,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.button.MaterialButton
-            android:id="@+id/button1"
+            android:id="@+id/btnWelcome"
             android:layout_width="160dp"
             android:layout_marginRight="10dp"
             android:layout_height="wrap_content"
@@ -39,13 +39,13 @@
             />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/btnGoodBye"
             android:layout_width="160dp"
             android:layout_marginLeft="16dp"
             android:layout_height="wrap_content"
             android:text="@string/button2"
             android:background="@color/yellow"
-            android:textColor="@color/white"/>
+            android:textColor="@color/black"/>
 
     </LinearLayout>
 
